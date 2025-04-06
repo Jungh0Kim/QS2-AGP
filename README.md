@@ -8,7 +8,7 @@ https://doi.org/10.1016/j.ymssp.2021.107962.
 
 Included toolboxes:
 - GPML - Williams, C. K., & Rasmussen, C. E. (2006). Gaussian processes for machine learning. Cambridge, MA: MIT press.
-- NIGP - Gaussian Process Training with Input Noise (McHutchon, A., and Rasmussen, C.E., 2011). http://mlg.eng.cam.ac.uk/?portfolio=andrew-mchutchon
+- NIGP - Gaussian Process Training with Input Noise (McHutchon, A., and Rasmussen, C.E., 2011).
 
 Notes:
  - The main script is: QS2_AGP_main.m. Run this script after installing GMPL toolbox. 
